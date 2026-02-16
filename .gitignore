@@ -3,3 +3,22 @@ ios/Pods/
 ios/*.xcworkspace/
 DerivedData/
 .DS_Store
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+ios/build/
+*.xcuserstate
+*.xcuserdata/
+
+# Local env files
+ios/.xcode.env.local
+.env
+.env.local
+
+# Node
+node_modules/
+
+# Misc
+vendor/
